@@ -1,6 +1,8 @@
 package koschei.config;
-
-import koschei.models.*;
+import koschei.models.Duck5;
+import koschei.models.Egg6;
+import koschei.models.Island2;
+import koschei.models.Wood3;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
